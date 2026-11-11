@@ -12,7 +12,7 @@ Local draft, checked 2026-11-11 on Olivers-MacBook-Air.local. No public reposito
 
 All app visits used **http://127.0.0.1:5197/**, never file URLs. Chrome rendered the genuine 3D preview on the Mac.
 
-- All four presets render; side and back views and reset/zoom controls work.
+- All four presets render. Side view was visually inspected; reset and zoom controls were exercised. Back was invoked but not independently screenshot-verified.
 - Actual native pointer drag with Comb edits 252 strands; undo returns to zero edited, redo restores the edited state.
 - Hiding the selected layer removes its contribution and blocks subsequent strokes with a visible message.
 - Preset replacement prompts when edits exist. Cancel preserves the selected preset and edits; confirmation rebuilds and clears layers, retaining undo.
