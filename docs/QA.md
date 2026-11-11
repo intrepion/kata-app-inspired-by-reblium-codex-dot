@@ -1,6 +1,6 @@
 # Strandloom v0.1 QA
 
-Local draft, checked 2026-11-11 on Olivers-MacBook-Air.local. No public repository, push or deployment was performed.
+Local implementation checked 2026-11-11 on Olivers-MacBook-Air.local. Publication was subsequently approved; the GitHub Pages workflow validates the same model tests and builds the static app before deployment. The browser observations below apply to the recorded localhost session, not every browser or device.
 
 ## Automated checks
 
@@ -35,4 +35,4 @@ All app visits used **http://127.0.0.1:5197/**, never file URLs. Chrome rendered
 - App source is self-contained. Browser UI does not modify Persona Forge.
 - Combined macOS/Windows/Linux/editor/Node .gitignore and MIT LICENSE included.
 - Three.js MIT notice included. All mannequin/strand/interface art is original; no Reblium or Persona Forge character assets included.
-- Tool Shed listing remains an unpublished preview with null launch/repository/verified fields.
+- The Tool Shed listing is promoted from preview only after the public deployment is independently verified. Local screenshot provenance remains unchanged.

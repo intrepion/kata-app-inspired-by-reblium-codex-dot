@@ -4,7 +4,7 @@
 
 An original, local-first 3D hair-grooming study inspired by Reblium’s workflow. This is a separate app, not a Persona Forge feature or patch.
 
-[← Kata Tool Shed](https://intrepion.github.io/tools/)
+[Open Strandloom](https://intrepion.github.io/kata-app-inspired-by-reblium-codex-dot/) · [Kata Tool Shed](https://intrepion.github.io/tools/)
 
 ## Run locally
 
@@ -21,7 +21,7 @@ npm run check
 npm run build
 ```
 
-The static deployment output is `dist/`. This repository and its Tool Shed entry are **unpublished local drafts**. There is no live app URL yet.
+The static deployment output is `dist/`. The GitHub Pages workflow runs syntax checks and all model tests before building and deploying the public app from `main`. No secrets or backend service are required.
 
 ## What works
 

@@ -8,7 +8,7 @@
   "tagline": "Shape a strand. Find a style.",
   "description": "An original local-first 3D hair-grooming study with procedural strands, hands-on brushes and reversible layers on a simple mannequin.",
   "entryPoint": "index.html",
-  "status": "preview",
+  "status": "live",
   "features": [
     "Four original procedural strand presets",
     "200–1,800 editable 3D strands",
@@ -51,6 +51,6 @@
     "url": "https://app.reblium.com/"
   },
   "license": "MIT",
-  "repositoryUrl": null,
-  "appUrl": null
+  "repositoryUrl": "https://github.com/intrepion/kata-app-inspired-by-reblium-codex-dot",
+  "appUrl": "https://intrepion.github.io/kata-app-inspired-by-reblium-codex-dot/"
 }
