@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "kind": "app",
+  "title": "Kata Strandloom",
+  "repository": "kata-app-inspired-by-reblium-codex-dot",
+  "section": "Kata Tool Shed",
+  "category": "3D & Animation",
+  "tagline": "Shape a strand. Find a style.",
+  "description": "An original local-first 3D hair-grooming study with procedural strands, hands-on brushes and reversible layers on a simple mannequin.",
+  "entryPoint": "index.html",
+  "status": "preview",
+  "features": [
+    "Four original procedural strand presets",
+    "200–1,800 editable 3D strands",
+    "Comb, length and smooth brushes",
+    "Radius, strength, root lock and mirror controls",
+    "Eight reversible groom layers",
+    "Root-to-tip colors and shape controls",
+    "Orbit, zoom and front/side/back views",
+    "24-edit undo and redo",
+    "Validated JSON project backups and import",
+    "Best-effort local autosave",
+    "PNG viewport and OBJ polyline export"
+  ],
+  "screenshots": [
+    {
+      "src": "docs/screenshots/desktop.jpg",
+      "width": 1133,
+      "height": 1032,
+      "alt": "Kata Strandloom desktop studio with original mannequin, side-swept procedural strands, two groom layers and shape controls.",
+      "caption": "Side sweep with two reversible layers in the desktop studio.",
+      "capturedAt": "2026-11-11T04:35:27.579045+00:00",
+      "sha256": "6865de2e49cd36f6ef1dc59ac86addec875d2b9ea56f49ac96ba25ebb87c7fed",
+      "source": "http://127.0.0.1:5197/",
+      "captureMethod": "Chrome on macOS via CUA. Genuine full-page JPEG browser capture; no editing."
+    },
+    {
+      "src": "docs/screenshots/narrow.jpg",
+      "width": 375,
+      "height": 2083,
+      "alt": "Kata Strandloom narrow layout with the 3D strand preview above presets, layers and shape controls.",
+      "caption": "390 CSS-pixel responsive layout, tested in desktop Chrome, not a physical phone.",
+      "capturedAt": "2026-11-11T04:35:20.371483+00:00",
+      "sha256": "241b81561798d1252045e620497bcfc205eaa4ce017fe2ac87bc3234bc56ac3d",
+      "source": "http://127.0.0.1:5197/",
+      "captureMethod": "Chrome on macOS via CUA. Genuine full-page JPEG browser capture; no editing."
+    }
+  ],
+  "inspiration": {
+    "name": "Reblium",
+    "url": "https://app.reblium.com/"
+  },
+  "license": "MIT",
+  "repositoryUrl": null,
+  "appUrl": null
+}

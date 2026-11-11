@@ -1,0 +1,23 @@
+{
+  "format": "strandloom",
+  "version": 1,
+  "name": "Coil import check",
+  "style": "coils",
+  "seed": 48,
+  "density": 800,
+  "length": 0.72,
+  "curl": 0.85,
+  "volume": 0.48,
+  "root": "#342827",
+  "tip": "#b98a62",
+  "width": 0.0035,
+  "layers": [
+    {
+      "id": 1,
+      "name": "Finishing strokes",
+      "visible": true,
+      "offsets": {}
+    }
+  ],
+  "activeLayer": 1
+}
